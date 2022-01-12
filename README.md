@@ -11,3 +11,4 @@ Here is the overview of the programms & other stuff
 * [Understanding Package Declarations & Imports](https://github.com/ChaosJD/UnderstandingPackageDeclarationsAndImports)
 * [Wildcards](https://github.com/ChaosJD/Wildcards)
 * [Redundant Imports](https://github.com/ChaosJD/RedundantImports)
+* [Naming Conflicts](https://github.com/ChaosJD/NamingConflicts)
