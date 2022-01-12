@@ -10,3 +10,4 @@ Here is the overview of the programms & other stuff
 * [Running a Programm in One Line](https://github.com/ChaosJD/RunningA_ProgrammInOne)
 * [Understanding Package Declarations & Imports](https://github.com/ChaosJD/UnderstandingPackageDeclarationsAndImports)
 * [Wildcards](https://github.com/ChaosJD/Wildcards)
+* [Redundant Imports](https://github.com/ChaosJD/RedundantImports)
